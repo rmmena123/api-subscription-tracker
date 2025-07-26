@@ -1,4 +1,7 @@
+<img width="1800" height="520" alt="Readme-Thumbnail" src="https://github.com/user-attachments/assets/b154b7a8-9dfb-40ac-b246-dd50aaa6fd8a" />
+
 # 📦 Subscription Tracker API
+
 
 Uma API segura, escalável e moderna para gerenciar assinaturas, com autenticação de usuário integrada, proteção Arcjet e autorização baseada em funções. Foi desenvolvida durante o [curso de back-end do canal Javascript Mastery](https://www.youtube.com/watch?v=rOpEN1JDaD0).
 
@@ -23,7 +26,7 @@ A estrutura do projeto foi organizada para promover a separação de responsabil
 
 ```
 subscription-tracker-api/
-├── config/              #  Configurações de ambiente, banco de dados e Arcjet
+├── config/              # Configurações de ambiente, banco de dados e Arcjet
 ├── controllers/         # Lógica de negócio e funções que manipulam as requisições
 ├── database/            # Lógica de conexão com o MongoDB
 ├── middleware/          # Middlewares para erros, autenticação e proteção
